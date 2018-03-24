@@ -6,12 +6,12 @@
 
 ## Description
 
-_A simple survey to determine which programming track a person should choose_
+_A simple survey to determine which programming track a person should choose._
 
 ## Setup/Installation Requirements
-*_In your terminal, cd to the folder you want to save the file.
-*_Use Git clone to save this project locally.
-*_Open index.html in your browser to view this project.
+* _In your terminal, cd to the folder you want to save the file.
+* _Use Git clone to save this project locally.
+* _Open index.html in your browser to view this project.
 
 ## Support and contact details
 
