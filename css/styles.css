@@ -1,8 +1,39 @@
 h1 {
+  font-family: Georgia;
   text-align: center;
   margin-top: 20px;
+  margin-bottom: 30px;
 }
 
+label {
+  font-family: Georgia;
+}
+
+.bold {
+  font-weight: bold;
+}
 .panel {
   display: none;
+  /* text-align: right;
+  margin: */
+}
+
+
+.center {
+    display: block;
+    margin: 20px auto 20px auto;
+    width: 50%;
+}
+.button {
+  margin-left: 150px;
+  margin-top: 10px;
+  width: 200px;
+}
+
+.panel-block {
+  float:right;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
 }
